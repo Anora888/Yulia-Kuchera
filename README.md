@@ -44,7 +44,7 @@ layout.
 Ukrainian: Native 
 English: Intermediate
 
-📫 How to reach me
+**📫 How to reach me**
 
 **[LinkedIn](www.linkedin.com/in/yulia-kuchera)**
 **[Telegram](https://t.me/AnoraLin)** 
