@@ -8,7 +8,7 @@ I am a motivated Fullstack Developer with a solid foundation in both frontend an
 
 
 
-🧰 Tech Stack
+**🧰 Tech Stack**
 
 | HTML | CSS | JavaScript | TypeScript | React | Node.js | Next.js |
 
