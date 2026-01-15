@@ -38,3 +38,14 @@ modal previews, contact form validation, and mobile-adaptive
 layout. 
 • Type: Team Project. 
 • Role: Developer.
+
+**🗣️ Languages**
+
+Ukrainian: Native 
+English: Intermediate
+
+📫 How to reach me
+
+***[LinkedIn](www.linkedin.com/in/yulia-kuchera)**
+***[Telegram](https://t.me/AnoraLin)** 
+***[Email](uliya.kuchera1@gmail.com)**
