@@ -15,29 +15,13 @@ I am a motivated Fullstack Developer with a solid foundation in both frontend an
 
 **💻 Featured Projects**
 
-***[YogaBloom | GitHub](https://serhii-panov.github.io/Project-team-12/)*** 
 
-• Tech stack: HTML, CSS. 
-• Description: A responsive landing page for a modern food
-delivery service. The project focuses on semantic layout and cross
-browser compatibility across all devices. 
-• Functionality: Mobile-first responsive design, interactive mobile
-navigation menu, modal windows for order placement, and smooth
-scroll transitions. 
-• Type: Team Project. 
-• Role: Scrum Master. 
 
-***[Nine Design Studio | GitHub](https://ann00012.github.io/nine-design-studio/)*** 
+• ***[YogaBloom](https://serhii-panov.github.io/Project-team-12/)*** – a responsive landing page dedicated to yoga and a healthy lifestyle, developed in a team where I served as a Scrum Master. Built using HTML5 and CSS3 (SASS) with a focus on semantic layout and mobile-first design. Implemented features include an interactive navigation menu, modal windows for registration, and smooth scroll transitions to enhance user engagement.
 
-• Tech stack: HTML, CSS3, JavaScript. 
-• Description: A professional website for a design studio
-showcasing their services and portfolio. The project emphasizes
-interactive user experience and dynamic content. 
-• Functionality: Dynamic portfolio filtering, image galleries with
-modal previews, contact form validation, and mobile-adaptive
-layout. 
-• Type: Team Project. 
-• Role: Developer.
+
+
+• ***[Nine Design Studio | GitHub](https://ann00012.github.io/nine-design-studio/)*** – a professional web platform for custom furniture sales built with JavaScript, HTML5, and CSS3. As a Developer, I implemented dynamic product filtering by categories, image galleries with modal previews for furniture details, and contact form validation for order inquiries.
 
 **🗣️ Languages**
 
