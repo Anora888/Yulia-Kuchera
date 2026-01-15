@@ -8,12 +8,12 @@ I am a motivated Fullstack Developer with a solid foundation in both frontend an
 
 
 
-**🧰 Tech Stack**
+#🧰 Tech Stack
 
 | HTML | CSS | JavaScript | TypeScript | React | Node.js | Next.js |
 
 
-**💻 Featured Projects**
+#💻 Featured Projects
 
 
 
@@ -23,13 +23,13 @@ I am a motivated Fullstack Developer with a solid foundation in both frontend an
 
 • ***[Nine Design Studio | GitHub](https://ann00012.github.io/nine-design-studio/)*** – a professional web platform for custom furniture sales built with JavaScript, HTML5, and CSS3. As a Developer, I implemented dynamic product filtering by categories, image galleries with modal previews for furniture details, and contact form validation for order inquiries.
 
-**🗣️ Languages**
+#🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-**📫 How to reach me**
+#📫 How to reach me
 
 **[LinkedIn](www.linkedin.com/in/yulia-kuchera)** |
 **[Telegram](https://t.me/AnoraLin)** |
