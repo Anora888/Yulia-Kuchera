@@ -13,9 +13,9 @@ I am a motivated Fullstack Developer with a solid foundation in both frontend an
 | HTML | CSS | JavaScript | TypeScript | React | Node.js | Next.js |
 
 
-💻 Featured Projects
+**[💻 Featured Projects]**
 
-***[YogaBloom | GitHub](https://serhii-panov.github.io/Project-team-12/)** 
+***[YogaBloom | GitHub](https://serhii-panov.github.io/Project-team-12/)*** 
 
 • Tech stack: HTML, CSS. 
 • Description: A responsive landing page for a modern food
@@ -27,7 +27,7 @@ scroll transitions.
 • Type: Team Project. 
 • Role: Scrum Master. 
 
-Nine Design Studio | GitHub 
+***[Nine Design Studio | GitHub](https://ann00012.github.io/nine-design-studio/)*** 
 
 • Tech stack: HTML, CSS3, JavaScript. 
 • Description: A professional website for a design studio
