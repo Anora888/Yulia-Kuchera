@@ -46,6 +46,6 @@ English: Intermediate
 
 **📫 How to reach me**
 
-**[LinkedIn](www.linkedin.com/in/yulia-kuchera)**
-**[Telegram](https://t.me/AnoraLin)** 
-**[Email](uliya.kuchera1@gmail.com)**
+|**[LinkedIn](www.linkedin.com/in/yulia-kuchera)** |
+**[Telegram](https://t.me/AnoraLin)** |
+**[Email](uliya.kuchera1@gmail.com)** |
