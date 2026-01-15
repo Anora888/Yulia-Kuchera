@@ -13,7 +13,7 @@ I am a motivated Fullstack Developer with a solid foundation in both frontend an
 | HTML | CSS | JavaScript | TypeScript | React | Node.js | Next.js |
 
 
-**[💻 Featured Projects]**
+**💻 Featured Projects**
 
 ***[YogaBloom | GitHub](https://serhii-panov.github.io/Project-team-12/)*** 
 
@@ -41,8 +41,9 @@ layout.
 
 **🗣️ Languages**
 
-Ukrainian: Native 
-English: Intermediate
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 **📫 How to reach me**
 
